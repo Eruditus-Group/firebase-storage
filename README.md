@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Eruditus-Group/firebase-storage.svg?branch=master)](https://travis-ci.org/Eruditus-Group/firebase-storage)
+
 Facebook Tab Boilerplate
 =====================
 
